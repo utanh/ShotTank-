@@ -102,7 +102,7 @@ HuongDi ENEMY03::rand_hgDi()
 }
 
 void ENEMY03::thaBom()
-{
+{/*
     int ktra = 0;
 
     if(get_cd() <= 0)
@@ -161,4 +161,5 @@ void ENEMY03::thaBom()
             }
         }
     }
+    */
 }
