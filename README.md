@@ -1,3 +1,3 @@
 # ShotTank-
 
-Game created by CImg in SDL library.
+Game created by CImg of SDL library.
