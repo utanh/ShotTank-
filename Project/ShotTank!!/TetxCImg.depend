@@ -1,0 +1,1033 @@
+# depslib dependency file v1.0
+1582684751 source:e:\game\textcimg\main.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"CImg.h"
+
+1581671278 e:\game\textcimg\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<cfloat>
+	<climits>
+	<ctime>
+	<exception>
+	<algorithm>
+	<stdio.h>
+	<sys/types.h>
+	<sys/time.h>
+	<sys/stat.h>
+	<unistd.h>
+	<dirent.h>
+	<fnmatch.h>
+	<windows.h>
+	<shlobj.h>
+	<process.h>
+	<io.h>
+	<initializer_list>
+	<utility>
+	<omp.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	<cstddef>
+	<opencv2/opencv.hpp>
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc_io_simple_volume.h"
+	"minc_1_simple.h"
+	"minc_1_simple_rw.h"
+	"zlib.h"
+	"curl/curl.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"tinyexr.h"
+	"CImg.h"
+
+1582683729 source:e:\game\textcimg\hienthi.cpp
+	"HienThi.h"
+
+1582646762 e:\game\textcimg\hienthi.h
+	"KhoiTao.h"
+
+1582647680 e:\game\textcimg\khoitao.h
+	<iostream>
+	<stdio.h>
+	<vector>
+	"CImg.h"
+
+1582683761 source:e:\game\textcimg\khoitao.cpp
+	"KhoiTao.h"
+
+1597397174 source:c:\users\84935\desktop\textcimg - copy\main.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"CImg.h"
+
+1581671278 c:\users\84935\desktop\textcimg - copy\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<cfloat>
+	<climits>
+	<ctime>
+	<exception>
+	<algorithm>
+	<stdio.h>
+	<sys/types.h>
+	<sys/time.h>
+	<sys/stat.h>
+	<unistd.h>
+	<dirent.h>
+	<fnmatch.h>
+	<windows.h>
+	<shlobj.h>
+	<process.h>
+	<io.h>
+	<initializer_list>
+	<utility>
+	<omp.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	<cstddef>
+	<opencv2/opencv.hpp>
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc_io_simple_volume.h"
+	"minc_1_simple.h"
+	"minc_1_simple_rw.h"
+	"zlib.h"
+	"curl/curl.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"tinyexr.h"
+	"CImg.h"
+
+1598319664 source:c:\users\84935\desktop\tank\object.cpp
+	"Object.h"
+
+1598319638 c:\users\84935\desktop\tank\object.h
+	<iostream>
+	"CImg.h"
+
+1581671278 c:\users\84935\desktop\tank\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<cfloat>
+	<climits>
+	<ctime>
+	<exception>
+	<algorithm>
+	<stdio.h>
+	<sys/types.h>
+	<sys/time.h>
+	<sys/stat.h>
+	<unistd.h>
+	<dirent.h>
+	<fnmatch.h>
+	<windows.h>
+	<shlobj.h>
+	<process.h>
+	<io.h>
+	<initializer_list>
+	<utility>
+	<omp.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	<cstddef>
+	<opencv2/opencv.hpp>
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc_io_simple_volume.h"
+	"minc_1_simple.h"
+	"minc_1_simple_rw.h"
+	"zlib.h"
+	"curl/curl.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"tinyexr.h"
+	"CImg.h"
+
+1598292025 source:c:\users\84935\desktop\tank\tuong.cpp
+	"Tuong.h"
+
+1598009234 c:\users\84935\desktop\tank\tuong.h
+	"Object.h"
+
+1598373373 source:c:\users\84935\desktop\tank\main.cpp
+	<time.h>
+	"Menu.h"
+	"Map01.h"
+	"Map02.h"
+	"Map03.h"
+
+1598009634 source:c:\users\84935\desktop\tank\movingobj.cpp
+	"MovingObj.h"
+
+1598206093 c:\users\84935\desktop\tank\movingobj.h
+	"Object.h"
+
+1598284471 source:c:\users\84935\desktop\tank\dan.cpp
+	"Dan.h"
+
+1598206110 c:\users\84935\desktop\tank\dan.h
+	"MovingObj.h"
+
+1598284629 source:c:\users\84935\desktop\tank\tank.cpp
+	"Tank.h"
+
+1598207348 c:\users\84935\desktop\tank\tank.h
+	"MovingObj.h"
+	"Dan.h"
+	<vector>
+
+1598314790 source:c:\users\84935\desktop\tank\player.cpp
+	"PLAYER.h"
+
+1598314789 c:\users\84935\desktop\tank\player.h
+	"Tank.h"
+
+1598291844 source:c:\users\84935\desktop\tank\enemy.cpp
+	"ENEMY.h"
+
+1598277419 c:\users\84935\desktop\tank\enemy.h
+	"Tank.h"
+	<time.h>
+	<stdlib.h>
+
+1598370930 source:c:\users\84935\desktop\tank\map.cpp
+	"Map.h"
+	<sstream>
+	<string>
+
+1598372869 c:\users\84935\desktop\tank\map.h
+	"Tuong.h"
+	"PLAYER.h"
+	"ENEMY.h"
+	"Dan.h"
+	<vector>
+
+1598372974 source:c:\users\84935\desktop\tank\map01.cpp
+	"Map01.h"
+	<fstream>
+
+1598372973 c:\users\84935\desktop\tank\map01.h
+	"Map.h"
+
+1598372973 source:c:\users\84935\desktop\tank\map02.cpp
+	"Map02.h"
+	<fstream>
+
+1598372973 c:\users\84935\desktop\tank\map02.h
+	"Map.h"
+
+1598372973 c:\users\84935\desktop\tank\map03.h
+	"Map.h"
+
+1598372973 source:c:\users\84935\desktop\tank\map03.cpp
+	"Map03.h"
+	<fstream>
+
+1598372822 c:\users\84935\desktop\tank\menu.h
+	"Map.h"
+
+1598372822 source:c:\users\84935\desktop\tank\menu.cpp
+	"Menu.h"
+	<fstream>
+
+1598387625 source:c:\users\84935\desktop\tank - copy\dan.cpp
+	"Dan.h"
+
+1598387630 c:\users\84935\desktop\tank - copy\dan.h
+	"MovingObj.h"
+
+1598388192 c:\users\84935\desktop\tank - copy\movingobj.h
+	"Object.h"
+
+1598380457 c:\users\84935\desktop\tank - copy\object.h
+	<iostream>
+	"CImg.h"
+
+1581671278 c:\users\84935\desktop\tank - copy\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<cfloat>
+	<climits>
+	<ctime>
+	<exception>
+	<algorithm>
+	<stdio.h>
+	<sys/types.h>
+	<sys/time.h>
+	<sys/stat.h>
+	<unistd.h>
+	<dirent.h>
+	<fnmatch.h>
+	<windows.h>
+	<shlobj.h>
+	<process.h>
+	<io.h>
+	<initializer_list>
+	<utility>
+	<omp.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	<cstddef>
+	<opencv2/opencv.hpp>
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc_io_simple_volume.h"
+	"minc_1_simple.h"
+	"minc_1_simple_rw.h"
+	"zlib.h"
+	"curl/curl.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"tinyexr.h"
+	"CImg.h"
+
+1598388328 source:c:\users\84935\desktop\tank - copy\enemy.cpp
+	"ENEMY.h"
+
+1598388159 c:\users\84935\desktop\tank - copy\enemy.h
+	"Tank.h"
+	<time.h>
+	<stdlib.h>
+
+1598413533 c:\users\84935\desktop\tank - copy\tank.h
+	"MovingObj.h"
+	"Dan.h"
+	<vector>
+
+1598405613 source:c:\users\84935\desktop\tank - copy\main.cpp
+	<time.h>
+	"Menu.h"
+	"Selection.h"
+	"Map01.h"
+	"Map02.h"
+	"Map03.h"
+
+1598401607 c:\users\84935\desktop\tank - copy\menu.h
+	"Map.h"
+
+1598413629 c:\users\84935\desktop\tank - copy\map.h
+	"Tuong.h"
+	"PLAYER.h"
+	"ENEMY.h"
+	"Dan.h"
+	<vector>
+
+1598009234 c:\users\84935\desktop\tank - copy\tuong.h
+	"Object.h"
+
+1598397293 c:\users\84935\desktop\tank - copy\player.h
+	"Tank.h"
+
+1598404468 c:\users\84935\desktop\tank - copy\map01.h
+	"Map.h"
+
+1598404870 c:\users\84935\desktop\tank - copy\map02.h
+	"Map.h"
+
+1598404870 c:\users\84935\desktop\tank - copy\map03.h
+	"Map.h"
+
+1598405570 source:c:\users\84935\desktop\tank - copy\map.cpp
+	"Map.h"
+	<sstream>
+	<string>
+
+1598405415 source:c:\users\84935\desktop\tank - copy\map01.cpp
+	"Map01.h"
+	<fstream>
+
+1598405415 source:c:\users\84935\desktop\tank - copy\map02.cpp
+	"Map02.h"
+	<fstream>
+
+1598405415 source:c:\users\84935\desktop\tank - copy\map03.cpp
+	"Map03.h"
+	<fstream>
+
+1598401614 source:c:\users\84935\desktop\tank - copy\menu.cpp
+	"Menu.h"
+	<fstream>
+
+1598388195 source:c:\users\84935\desktop\tank - copy\movingobj.cpp
+	"MovingObj.h"
+
+1598387243 source:c:\users\84935\desktop\tank - copy\object.cpp
+	"Object.h"
+
+1598397293 source:c:\users\84935\desktop\tank - copy\player.cpp
+	"PLAYER.h"
+
+1598387623 source:c:\users\84935\desktop\tank - copy\tank.cpp
+	"Tank.h"
+
+1598383463 source:c:\users\84935\desktop\tank - copy\tuong.cpp
+	"Tuong.h"
+
+1598401517 c:\users\84935\desktop\tank - copy\selection.h
+	"Map.h"
+
+1598403807 source:c:\users\84935\desktop\tank - copy\selection.cpp
+	"Selection.h"
+	<fstream>
+
+1598567863 source:c:\users\84935\desktop\tank not_point\dan.cpp
+	"Dan.h"
+
+1598387630 c:\users\84935\desktop\tank not_point\dan.h
+	"MovingObj.h"
+
+1599119037 c:\users\84935\desktop\tank not_point\movingobj.h
+	"Object.h"
+	"Tuong.h"
+
+1598568331 c:\users\84935\desktop\tank not_point\object.h
+	<iostream>
+	"CImg.h"
+
+1581671278 c:\users\84935\desktop\tank not_point\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<cfloat>
+	<climits>
+	<ctime>
+	<exception>
+	<algorithm>
+	<stdio.h>
+	<sys/types.h>
+	<sys/time.h>
+	<sys/stat.h>
+	<unistd.h>
+	<dirent.h>
+	<fnmatch.h>
+	<windows.h>
+	<shlobj.h>
+	<process.h>
+	<io.h>
+	<initializer_list>
+	<utility>
+	<omp.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	<cstddef>
+	<opencv2/opencv.hpp>
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc_io_simple_volume.h"
+	"minc_1_simple.h"
+	"minc_1_simple_rw.h"
+	"zlib.h"
+	"curl/curl.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"tinyexr.h"
+	"CImg.h"
+
+1599208417 source:c:\users\84935\desktop\tank not_point\enemy.cpp
+	"ENEMY.h"
+
+1599208419 c:\users\84935\desktop\tank not_point\enemy.h
+	"Tank.h"
+	<time.h>
+	<stdlib.h>
+
+1599209522 c:\users\84935\desktop\tank not_point\tank.h
+	"MovingObj.h"
+	"Dan.h"
+	<vector>
+
+1599418057 source:c:\users\84935\desktop\tank not_point\main.cpp
+	<time.h>
+	"Menu.h"
+	"Selection.h"
+	"Map01.h"
+	"Map02.h"
+	"Map03.h"
+	"Map04.h"
+	"Map05.h"
+	"Map06.h"
+
+1598401607 c:\users\84935\desktop\tank not_point\menu.h
+	"Map.h"
+
+1599276513 c:\users\84935\desktop\tank not_point\map.h
+	"Tuong.h"
+	"PLAYER.h"
+	"ENEMY.h"
+	"ENEMY02.h"
+	"Dan.h"
+	<vector>
+	<sstream>
+	<string>
+
+1598009234 c:\users\84935\desktop\tank not_point\tuong.h
+	"Object.h"
+
+1599276179 c:\users\84935\desktop\tank not_point\player.h
+	"Tank.h"
+
+1599417933 c:\users\84935\desktop\tank not_point\selection.h
+	"Map.h"
+
+1599275288 c:\users\84935\desktop\tank not_point\map01.h
+	"Map.h"
+
+1598404870 c:\users\84935\desktop\tank not_point\map02.h
+	"Map.h"
+
+1598404870 c:\users\84935\desktop\tank not_point\map03.h
+	"Map.h"
+
+1599318820 source:c:\users\84935\desktop\tank not_point\map01.cpp
+	"Map01.h"
+	<fstream>
+
+1599326700 source:c:\users\84935\desktop\tank not_point\map02.cpp
+	"Map02.h"
+	<fstream>
+
+1599326709 source:c:\users\84935\desktop\tank not_point\map03.cpp
+	"Map03.h"
+	<fstream>
+
+1598666993 source:c:\users\84935\desktop\tank not_point\menu.cpp
+	"Menu.h"
+	<fstream>
+
+1599119035 source:c:\users\84935\desktop\tank not_point\movingobj.cpp
+	"MovingObj.h"
+
+1598567489 source:c:\users\84935\desktop\tank not_point\object.cpp
+	"Object.h"
+
+1599307098 source:c:\users\84935\desktop\tank not_point\player.cpp
+	"PLAYER.h"
+
+1599417991 source:c:\users\84935\desktop\tank not_point\selection.cpp
+	"Selection.h"
+	<fstream>
+
+1599209497 source:c:\users\84935\desktop\tank not_point\tank.cpp
+	"Tank.h"
+
+1598383463 source:c:\users\84935\desktop\tank not_point\tuong.cpp
+	"Tuong.h"
+
+1599209185 c:\users\84935\desktop\tank not_point\enemy02.h
+	"Tank.h"
+	"PLAYER.h"
+	<time.h>
+	<stdlib.h>
+
+1599209185 source:c:\users\84935\desktop\tank not_point\enemy02.cpp
+	"ENEMY02.h"
+
+1599411279 source:c:\users\84935\desktop\tank not_point\map.cpp
+	"Map.h"
+
+1599326713 source:c:\users\84935\desktop\tank not_point\map04.cpp
+	"Map04.h"
+	<fstream>
+
+1598584493 c:\users\84935\desktop\tank not_point\map04.h
+	"Map.h"
+
+1598584491 c:\users\84935\desktop\tank not_point\map05.h
+	"Map.h"
+
+1599326719 source:c:\users\84935\desktop\tank not_point\map05.cpp
+	"Map05.h"
+	<fstream>
+
+1598585404 c:\users\84935\desktop\tank not_point\map06.h
+	"Map.h"
+
+1599326725 source:c:\users\84935\desktop\tank not_point\map06.cpp
+	"Map06.h"
+	<fstream>
+
+1598567863 source:c:\users\84935\desktop\tank not_point - copy\dan.cpp
+	"Dan.h"
+
+1598387630 c:\users\84935\desktop\tank not_point - copy\dan.h
+	"MovingObj.h"
+
+1598569533 c:\users\84935\desktop\tank not_point - copy\movingobj.h
+	"Object.h"
+	"Tuong.h"
+
+1598568331 c:\users\84935\desktop\tank not_point - copy\object.h
+	<iostream>
+	"CImg.h"
+
+1581671278 c:\users\84935\desktop\tank not_point - copy\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<cfloat>
+	<climits>
+	<ctime>
+	<exception>
+	<algorithm>
+	<stdio.h>
+	<sys/types.h>
+	<sys/time.h>
+	<sys/stat.h>
+	<unistd.h>
+	<dirent.h>
+	<fnmatch.h>
+	<windows.h>
+	<shlobj.h>
+	<process.h>
+	<io.h>
+	<initializer_list>
+	<utility>
+	<omp.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	<cstddef>
+	<opencv2/opencv.hpp>
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc_io_simple_volume.h"
+	"minc_1_simple.h"
+	"minc_1_simple_rw.h"
+	"zlib.h"
+	"curl/curl.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"tinyexr.h"
+	"CImg.h"
+
+1598009234 c:\users\84935\desktop\tank not_point - copy\tuong.h
+	"Object.h"
+
+1598570956 source:c:\users\84935\desktop\tank not_point - copy\enemy.cpp
+	"ENEMY.h"
+
+1598566733 c:\users\84935\desktop\tank not_point - copy\enemy.h
+	"Tank.h"
+	<time.h>
+	<stdlib.h>
+
+1598568490 c:\users\84935\desktop\tank not_point - copy\tank.h
+	"MovingObj.h"
+	"Dan.h"
+	<vector>
+
+1598610867 source:c:\users\84935\desktop\tank not_point - copy\enemy02.cpp
+	"ENEMY02.h"
+
+1598577505 c:\users\84935\desktop\tank not_point - copy\enemy02.h
+	"Tank.h"
+	"PLAYER.h"
+	<time.h>
+	<stdlib.h>
+
+1598568102 c:\users\84935\desktop\tank not_point - copy\player.h
+	"Tank.h"
+
+1598666900 source:c:\users\84935\desktop\tank not_point - copy\main.cpp
+	<time.h>
+	"Menu.h"
+	"Selection.h"
+	"Map01.h"
+	"Map02.h"
+	"Map03.h"
+	"Map04.h"
+	"Map05.h"
+	"Map06.h"
+
+1598401607 c:\users\84935\desktop\tank not_point - copy\menu.h
+	"Map.h"
+
+1598579760 c:\users\84935\desktop\tank not_point - copy\map.h
+	"Tuong.h"
+	"PLAYER.h"
+	"ENEMY.h"
+	"ENEMY02.h"
+	"Dan.h"
+	<vector>
+	<sstream>
+	<string>
+
+1598585178 c:\users\84935\desktop\tank not_point - copy\selection.h
+	"Map.h"
+
+1598404468 c:\users\84935\desktop\tank not_point - copy\map01.h
+	"Map.h"
+
+1598404870 c:\users\84935\desktop\tank not_point - copy\map02.h
+	"Map.h"
+
+1598404870 c:\users\84935\desktop\tank not_point - copy\map03.h
+	"Map.h"
+
+1598584493 c:\users\84935\desktop\tank not_point - copy\map04.h
+	"Map.h"
+
+1598584491 c:\users\84935\desktop\tank not_point - copy\map05.h
+	"Map.h"
+
+1598585404 c:\users\84935\desktop\tank not_point - copy\map06.h
+	"Map.h"
+
+1598603477 source:c:\users\84935\desktop\tank not_point - copy\map.cpp
+	"Map.h"
+
+1598610024 source:c:\users\84935\desktop\tank not_point - copy\map01.cpp
+	"Map01.h"
+	<fstream>
+
+1598610037 source:c:\users\84935\desktop\tank not_point - copy\map02.cpp
+	"Map02.h"
+	<fstream>
+
+1598610077 source:c:\users\84935\desktop\tank not_point - copy\map03.cpp
+	"Map03.h"
+	<fstream>
+
+1598610297 source:c:\users\84935\desktop\tank not_point - copy\map04.cpp
+	"Map04.h"
+	<fstream>
+
+1598661367 source:c:\users\84935\desktop\tank not_point - copy\map05.cpp
+	"Map05.h"
+	<fstream>
+
+1598696681 source:c:\users\84935\desktop\tank not_point - copy\map06.cpp
+	"Map06.h"
+	<fstream>
+
+1598666993 source:c:\users\84935\desktop\tank not_point - copy\menu.cpp
+	"Menu.h"
+	<fstream>
+
+1598587217 source:c:\users\84935\desktop\tank not_point - copy\movingobj.cpp
+	"MovingObj.h"
+
+1598567489 source:c:\users\84935\desktop\tank not_point - copy\object.cpp
+	"Object.h"
+
+1598569202 source:c:\users\84935\desktop\tank not_point - copy\player.cpp
+	"PLAYER.h"
+
+1598610694 source:c:\users\84935\desktop\tank not_point - copy\selection.cpp
+	"Selection.h"
+	<fstream>
+
+1598568489 source:c:\users\84935\desktop\tank not_point - copy\tank.cpp
+	"Tank.h"
+
+1598383463 source:c:\users\84935\desktop\tank not_point - copy\tuong.cpp
+	"Tuong.h"
+
+1598567863 source:c:\users\84935\desktop\tank not_point02 - copy\dan.cpp
+	"Dan.h"
+
+1598387630 c:\users\84935\desktop\tank not_point02 - copy\dan.h
+	"MovingObj.h"
+
+1599119037 c:\users\84935\desktop\tank not_point02 - copy\movingobj.h
+	"Object.h"
+	"Tuong.h"
+
+1598568331 c:\users\84935\desktop\tank not_point02 - copy\object.h
+	<iostream>
+	"CImg.h"
+
+1581671278 c:\users\84935\desktop\tank not_point02 - copy\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<cfloat>
+	<climits>
+	<ctime>
+	<exception>
+	<algorithm>
+	<stdio.h>
+	<sys/types.h>
+	<sys/time.h>
+	<sys/stat.h>
+	<unistd.h>
+	<dirent.h>
+	<fnmatch.h>
+	<windows.h>
+	<shlobj.h>
+	<process.h>
+	<io.h>
+	<initializer_list>
+	<utility>
+	<omp.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	<cstddef>
+	<opencv2/opencv.hpp>
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc_io_simple_volume.h"
+	"minc_1_simple.h"
+	"minc_1_simple_rw.h"
+	"zlib.h"
+	"curl/curl.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"tinyexr.h"
+	"CImg.h"
+
+1598009234 c:\users\84935\desktop\tank not_point02 - copy\tuong.h
+	"Object.h"
+
+1599208417 source:c:\users\84935\desktop\tank not_point02 - copy\enemy.cpp
+	"ENEMY.h"
+
+1599208419 c:\users\84935\desktop\tank not_point02 - copy\enemy.h
+	"Tank.h"
+	<time.h>
+	<stdlib.h>
+
+1599209522 c:\users\84935\desktop\tank not_point02 - copy\tank.h
+	"MovingObj.h"
+	"Dan.h"
+	<vector>
+
+1599209185 source:c:\users\84935\desktop\tank not_point02 - copy\enemy02.cpp
+	"ENEMY02.h"
+
+1599209185 c:\users\84935\desktop\tank not_point02 - copy\enemy02.h
+	"Tank.h"
+	"PLAYER.h"
+	<time.h>
+	<stdlib.h>
+
+1599209044 c:\users\84935\desktop\tank not_point02 - copy\player.h
+	"Tank.h"
+
+1599122391 source:c:\users\84935\desktop\tank not_point02 - copy\main.cpp
+	<time.h>
+	"Menu.h"
+	"Selection.h"
+	"Map01.h"
+	"Map02.h"
+	"Map03.h"
+	"Map04.h"
+	"Map05.h"
+	"Map06.h"
+
+1598401607 c:\users\84935\desktop\tank not_point02 - copy\menu.h
+	"Map.h"
+
+1599120796 c:\users\84935\desktop\tank not_point02 - copy\map.h
+	"Tuong.h"
+	"PLAYER.h"
+	"ENEMY.h"
+	"ENEMY02.h"
+	"Dan.h"
+	<vector>
+	<sstream>
+	<string>
+
+1598585178 c:\users\84935\desktop\tank not_point02 - copy\selection.h
+	"Map.h"
+
+1598404468 c:\users\84935\desktop\tank not_point02 - copy\map01.h
+	"Map.h"
+
+1598404870 c:\users\84935\desktop\tank not_point02 - copy\map02.h
+	"Map.h"
+
+1598404870 c:\users\84935\desktop\tank not_point02 - copy\map03.h
+	"Map.h"
+
+1598584493 c:\users\84935\desktop\tank not_point02 - copy\map04.h
+	"Map.h"
+
+1598584491 c:\users\84935\desktop\tank not_point02 - copy\map05.h
+	"Map.h"
+
+1598585404 c:\users\84935\desktop\tank not_point02 - copy\map06.h
+	"Map.h"
+
+1598610024 source:c:\users\84935\desktop\tank not_point02 - copy\map01.cpp
+	"Map01.h"
+	<fstream>
+
+1598610037 source:c:\users\84935\desktop\tank not_point02 - copy\map02.cpp
+	"Map02.h"
+	<fstream>
+
+1598610077 source:c:\users\84935\desktop\tank not_point02 - copy\map03.cpp
+	"Map03.h"
+	<fstream>
+
+1598610297 source:c:\users\84935\desktop\tank not_point02 - copy\map04.cpp
+	"Map04.h"
+	<fstream>
+
+1598661367 source:c:\users\84935\desktop\tank not_point02 - copy\map05.cpp
+	"Map05.h"
+	<fstream>
+
+1598696681 source:c:\users\84935\desktop\tank not_point02 - copy\map06.cpp
+	"Map06.h"
+	<fstream>
+
+1598666993 source:c:\users\84935\desktop\tank not_point02 - copy\menu.cpp
+	"Menu.h"
+	<fstream>
+
+1598567489 source:c:\users\84935\desktop\tank not_point02 - copy\object.cpp
+	"Object.h"
+
+1599209041 source:c:\users\84935\desktop\tank not_point02 - copy\player.cpp
+	"PLAYER.h"
+
+1599248213 source:c:\users\84935\desktop\tank not_point02 - copy\selection.cpp
+	"Selection.h"
+	<fstream>
+
+1599209497 source:c:\users\84935\desktop\tank not_point02 - copy\tank.cpp
+	"Tank.h"
+
+1598383463 source:c:\users\84935\desktop\tank not_point02 - copy\tuong.cpp
+	"Tuong.h"
+
+1599209547 source:c:\users\84935\desktop\tank not_point02 - copy\map.cpp
+	"Map.h"
+
+1599119035 source:c:\users\84935\desktop\tank not_point02 - copy\movingobj.cpp
+	"MovingObj.h"
+
+1599410377 source:c:\users\84935\desktop\tank not_point\dan03.cpp
+	"Dan03.h"
+
+1599409525 c:\users\84935\desktop\tank not_point\dan03.h
+	"Object.h"
+
+1599410783 c:\users\84935\desktop\tank not_point\map07.h
+	"Map.h"
+
+1599410784 source:c:\users\84935\desktop\tank not_point\map07.cpp
+	"Map07.h"
+	<fstream>
+

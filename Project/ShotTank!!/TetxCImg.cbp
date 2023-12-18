@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="DemoDoHoa" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/DemoDoHoa" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="libgdi32" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/DemoDoHoa" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="libgdi32" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="CImg.h" />
+		<Unit filename="Dan.cpp" />
+		<Unit filename="Dan.h" />
+		<Unit filename="ENEMY.cpp" />
+		<Unit filename="ENEMY.h" />
+		<Unit filename="ENEMY02.cpp" />
+		<Unit filename="ENEMY02.h" />
+		<Unit filename="Map.cpp" />
+		<Unit filename="Map.h" />
+		<Unit filename="Map01.cpp" />
+		<Unit filename="Map01.h" />
+		<Unit filename="Map02.cpp" />
+		<Unit filename="Map02.h" />
+		<Unit filename="Map03.cpp" />
+		<Unit filename="Map03.h" />
+		<Unit filename="Map04.cpp" />
+		<Unit filename="Map04.h" />
+		<Unit filename="Map05.cpp" />
+		<Unit filename="Map05.h" />
+		<Unit filename="Map06.cpp" />
+		<Unit filename="Map06.h" />
+		<Unit filename="Menu.cpp" />
+		<Unit filename="Menu.h" />
+		<Unit filename="MovingObj.cpp" />
+		<Unit filename="MovingObj.h" />
+		<Unit filename="Object.cpp" />
+		<Unit filename="Object.h" />
+		<Unit filename="PLAYER.cpp" />
+		<Unit filename="PLAYER.h" />
+		<Unit filename="Selection.cpp" />
+		<Unit filename="Selection.h" />
+		<Unit filename="Tank.cpp" />
+		<Unit filename="Tank.h" />
+		<Unit filename="Tuong.cpp" />
+		<Unit filename="Tuong.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
