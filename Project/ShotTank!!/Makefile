@@ -1,0 +1,2 @@
+all:
+	g++  -o main Object.cpp MovingObj.cpp Tank.cpp Tuong.cpp Player.cpp  Dan.cpp ENEMY.cpp ENEMY02.cpp ENEMY03.cpp Map.cpp Map01.cpp Map02.cpp Map03.cpp Map04.cpp Map05.cpp Map06.cpp Selection.cpp Menu.cpp main.cpp -lgdi32
