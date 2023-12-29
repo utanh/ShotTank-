@@ -2,12 +2,11 @@
 *All object draw by using CImg of SDL library.*
 
 # 1. Tank
-**Player Tank:**
-##
+**Player Tank:**    
 ![image](https://github.com/utanh/ShotTank-/assets/110503544/2e85627c-c1ee-4bb2-9177-5a75f6b4d77f)<br />
-**Enemy Tank 01:**<br />
+**Enemy Tank 01:**    
 ![image](https://github.com/utanh/ShotTank-/assets/110503544/ea0eb1c9-d43f-409d-a4f7-3feb9ce86ac8)<br />
-**Enemy Tank 02:**<br />
+**Enemy Tank 02:**    
 ![image](https://github.com/utanh/ShotTank-/assets/110503544/8e88dde4-1c28-47af-ad5c-e67f1309d82b)<br />
 
 # 2. Map
