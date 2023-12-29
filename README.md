@@ -7,7 +7,7 @@
 **Enemy Tank 02:**    ![image](https://github.com/utanh/ShotTank-/assets/110503544/8e88dde4-1c28-47af-ad5c-e67f1309d82b)<br />
 
 # 2. Map
-<img src = "https://github.com/utanh/ShotTank-/assets/110503544/1edf79a0-8de0-4940-8f17-324c43b23c81" width="800" title="Map 01">
+<img src = "https://github.com/utanh/ShotTank-/assets/110503544/1edf79a0-8de0-4940-8f17-324c43b23c81" width="800" alt="Map 01" title="Map 01">
 
 ![map01](https://github.com/utanh/ShotTank-/assets/110503544/1edf79a0-8de0-4940-8f17-324c43b23c81)
 ![map02](https://github.com/utanh/ShotTank-/assets/110503544/efaba74c-8a48-49b2-92f9-f90a1ce60429)
