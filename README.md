@@ -14,3 +14,5 @@
 <img src = "https://github.com/utanh/ShotTank-/assets/110503544/be8c1b40-8ba1-483e-ba02-adfa9cdbcf1d" width="500">
 <img src = "https://github.com/utanh/ShotTank-/assets/110503544/8d387b03-1a0a-4f9e-8a10-678534c456c5" width="500">
 
+# 3. Demo
+https://github.com/utanh/ShotTank-/blob/main/Shot%20Tank%20!!%20DEMO.mp4
