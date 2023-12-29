@@ -8,7 +8,7 @@
 
 # 2. Map
 ![map01](https://github.com/utanh/ShotTank-/assets/110503544/1edf79a0-8de0-4940-8f17-324c43b23c81)
-img[alt=drawing] { width: 200px; }
+img[alt=map01] { width: 200px; }
 ![map02](https://github.com/utanh/ShotTank-/assets/110503544/efaba74c-8a48-49b2-92f9-f90a1ce60429)
 ![map03](https://github.com/utanh/ShotTank-/assets/110503544/6ada1868-88f7-416e-92a9-59cb251f07d6)
 ![map04](https://github.com/utanh/ShotTank-/assets/110503544/ea6ef17b-fafd-4f89-bb43-afab681b83ac)
